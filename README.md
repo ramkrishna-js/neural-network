@@ -47,6 +47,12 @@ python predict.py
 ```
 *Note: `predict.py` generates a `prediction.png` file showing the results.*
 
+## 🌳 Project Visualization
+You can view a cool green-colored representation of the project structure by running:
+```bash
+python tree_view.py
+```
+
 ## 📂 Project Structure
 ```text
 .
