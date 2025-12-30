@@ -42,10 +42,18 @@ pip install -r requirements.txt
 python train.py
 ```
 ### Prediction & Visualization
+You can view predictions in three modes:
 ```bash
-python predict.py
+# View in both CLI and generate PNG (default)
+python predict.py both
+
+# View only in CLI (character-based art)
+python predict.py cli
+
+# Only generate PNG file
+python predict.py png
 ```
-*Note: `predict.py` generates a `prediction.png` file showing the results.*
+*The CLI view uses character blocks to render the 28x28 digits directly in your terminal!*
 
 ## 🌳 Project Visualization
 You can view a cool green-colored representation of the project structure by running:
