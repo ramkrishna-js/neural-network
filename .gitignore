@@ -2,5 +2,8 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 data/
+venv/
 *.png
 *.jpg
+model.pkl
+.vscode/
