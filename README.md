@@ -39,7 +39,7 @@ A modular implementation of a Neural Network built entirely with Python and NumP
    ```
 3. **Chat**:
    ```bash
-   python scripts/study_buddy.py chat
+   python scripts/study_buddy.py  chat
    ```
 
 ## 🌳 Visualization
